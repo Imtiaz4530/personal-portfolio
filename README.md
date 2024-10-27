@@ -84,7 +84,3 @@ This is a personal portfolio website developed using React and SCSS. It highligh
 ### Contact Section
 
 ![Contact Section](./public/p7.png)
-
-## Contributing
-
-If you would like to contribute, feel free to open an issue or submit a pull request.
