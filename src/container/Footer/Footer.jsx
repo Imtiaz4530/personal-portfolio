@@ -16,7 +16,7 @@ const Footer = () => {
 
         <ul className="footer__social-icon">
           <li>
-            <a href="https://www.linkedin.com/in/imtiaz-opu-50885b23a?fbclid=IwAR2FxdViVj99JixJajSwwHnfrFBX6tIgUu1XiJvHIWoHuB1nG3yFiQ5ejz4">
+            <a href="https://www.linkedin.com/in/smimtiazrubayet/">
               <BsLinkedin />
             </a>
           </li>
